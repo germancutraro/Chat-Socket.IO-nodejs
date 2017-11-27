@@ -1,0 +1,18 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Simple Chat using Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "germancutraro",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5",
+    "socket.io": "^2.0.4"
+  }
+}
